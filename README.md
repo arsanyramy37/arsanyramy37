@@ -13,7 +13,7 @@
 - ⚙️ Experienced with **HTML, CSS, JavaScript, Bootstrap, React, Vite, and Figma.**  
 - 🧠 I enjoy turning ideas into functional, elegant designs.  
 - 📫 Reach me anytime at **arsanyramy70@gmail.com**  
-- 🌐 Visit my Portfolio: [arsanyramy.dev](https://v0-frontend-developer-portfolio-eta.vercel.app/)
+- 🌐 Visit my Portfolio: [arsanyramy.dev](https://arsanyramy37.github.io/portfolio/)
 
 ---
 
